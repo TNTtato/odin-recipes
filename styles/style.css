@@ -1,0 +1,25 @@
+* {
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: rgb(185, 160, 112);
+    color: black;
+}
+header {
+    background-color: rgb(18, 162, 167);
+    color: #FFF;
+    font-size: 2em;
+    text-align: center;
+}
+.choose-recipe-title {
+    font-size: 1.3em;
+    text-align: center;
+}
+.ul-container {
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 100px;
+}

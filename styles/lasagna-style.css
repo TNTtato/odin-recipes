@@ -1,0 +1,19 @@
+* {
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    background-color: rgb(18, 162, 167);
+    color: #FFF;
+    font-size: 2em;
+    text-align: center;
+}
+img {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+h2, p, ul {
+    display: block;
+    margin: 0 auto;
+}
